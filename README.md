@@ -1,2 +1,2 @@
-# Personal-Portfolio
-My Personal Portfolio Website
+#  Face detection APP
+Interface using HTML/CSS and Javascript
